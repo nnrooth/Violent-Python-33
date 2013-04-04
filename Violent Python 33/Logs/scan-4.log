@@ -1,0 +1,153 @@
+70.1.48.230 : 22 : SSH-2.0-dropbear_0.52 : Hawthorne,CA,United States : -118.352600,33.916400
+70.1.62.69 : 23 : ! : Arlington,WA,United States : -121.677800,48.185300
+70.1.81.184 : 22 : SSH-2.0-dropbear_0.48 : Escondido,CA,United States : -117.086400,33.119200
+70.1.100.139 : 23 : ! : Lawndale,CA,United States : -118.352600,33.887200
+70.1.123.2 : 22 : SSH-2.0-dropbear_0.51 : Huntington Park,CA,United States : -118.213300,33.977500
+70.1.128.225 : 22 : SSH-2.0-OpenSSH_5.8p1 Debian-1ubuntu3 : Los Angeles,CA,United States : -118.243700,34.052200
+70.1.130.28 : 21 :  : Los Angeles,CA,United States : -118.243700,34.052200
+70.1.151.1 : 22 : SSH-2.0-OpenSSH_5.0 : Colorado Springs,CO,United States : -104.821400,38.833900
+70.1.162.160 : 23 : ! : Orange,CA,United States : -117.853100,33.787800
+70.1.168.228 : 23 : ! : United States : -119.746200,36.170000
+70.1.178.46 : 23 : Probe in use by IP = 208.10.65.140:37669 : United States : -97.000000,38.000000
+70.1.178.46 : 22 : SSH-1.99-OpenSSH_3.9p1 : United States : -97.000000,38.000000
+70.1.186.108 : 22 : SSH-2.0-OpenSSH_4.6 : Los Angeles,CA,United States : -118.243700,34.052200
+70.1.227.248 : 21 :  : United States : -97.000000,38.000000
+70.2.3.72 : 21 :  : Forney,TX,United States : -96.446300,32.738000
+70.2.16.209 : 22 : SSH-2.0-dropbear_0.52 : Fort Worth,TX,United States : -97.320800,32.725400
+70.2.100.7 : 22 : SSH-2.0-OpenSSH_5.1p1 Debian-3ubuntu1 : United States : -97.000000,38.000000
+70.2.137.140 : 23 : ! : United States : -97.000000,38.000000
+70.2.183.38 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : United States : -97.000000,38.000000
+70.2.197.58 : 23 : ! : New Orleans,LA,United States : -90.075100,29.954700
+70.2.197.53 : 22 : SSH-1.99-OpenSSH_4.1 : New Orleans,LA,United States : -90.075100,29.954700
+70.2.197.185 : 22 : SSH-2.0-dropbear_0.48 : New Orleans,LA,United States : -90.075100,29.954700
+70.2.197.209 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : New Orleans,LA,United States : -90.075100,29.954700
+70.3.19.218 : 22 : SSH-1.99-OpenSSH_4.1 : Forest Hill,LA,United States : -92.519800,31.048300
+70.3.34.41 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.3.49.83 : 21 : 220 70-3-49-83.pools.spcsdns.net FTP server (tnftpd 20061217) ready. : Dallas,TX,United States : -96.806700,32.783100
+70.3.49.83 : 22 : SSH-1.99-OpenSSH_5.1 : Dallas,TX,United States : -96.806700,32.783100
+70.3.108.43 : 22 : SSH-2.0-dropbear_0.48 : Arlington,TX,United States : -97.108100,32.735700
+70.3.117.167 : 22 : SSH-1.99-OpenSSH_4.1 : United States : -97.000000,38.000000
+70.3.170.135 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : Ennis,TX,United States : -96.625300,32.329300
+70.3.176.255 : 21 : 220 Microsoft FTP Service : Irving,TX,United States : -96.948900,32.814000
+70.3.198.111 : 22 : SSH-2.0-OpenSSH_5.1p1 Debian-5ubuntu1 : Spicewood,TX,United States : -98.134700,30.444400
+70.3.240.109 : 22 : SSH-1.99-OpenSSH_4.1 : Dallas,TX,United States : -96.806700,32.783100
+70.4.8.174 : 22 : SSH-2.0-OpenSSH_5.1 : Baltimore,MD,United States : -76.612200,39.290400
+70.4.9.182 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : Baltimore,MD,United States : -76.612200,39.290400
+70.4.19.97 : 22 : SSH-2.0-OpenSSH_5.8 : Riverdale,MD,United States : -76.535800,39.099300
+70.4.75.149 : 23 : ! : Philadelphia,PA,United States : -75.163800,39.952300
+70.4.75.5 : 21 :  : Philadelphia,PA,United States : -75.163800,39.952300
+70.4.143.214 : 22 : SSH-2.0-dropbear_0.51 : Dover,DE,United States : -75.524400,39.158200
+70.4.186.225 : 22 : SSH-1.99-OpenSSH_3.5p1 : Abington,PA,United States : -75.126400,40.123900
+70.4.232.227 : 21 :  : Hedgesville,WV,United States : -78.070400,39.523500
+70.4.236.88 : 22 : SSH-2.0-OpenSSH_5.8p1 Debian-1ubuntu3 : Hedgesville,WV,United States : -78.070400,39.523500
+70.4.238.5 : 23 :  : Hedgesville,WV,United States : -78.070400,39.523500
+70.4.243.255 : 21 : 220 Microsoft FTP Service : New Castle,DE,United States : -75.566300,39.662100
+70.4.247.211 : 22 : SSH-2.0-dropbear_0.48 : New Castle,DE,United States : -75.566300,39.662100
+70.6.19.209 : 21 :  : United States : -97.000000,38.000000
+70.6.72.2 : 22 : SSH-1.99-OpenSSH_4.1 : San Diego,CA,United States : -117.157300,32.715300
+70.6.90.127 : 22 : SSH-2.0-dropbear_0.51 : Bell,CA,United States : -118.153500,33.976100
+70.6.93.98 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : Ontario,CA,United States : -117.626100,34.077800
+70.6.136.192 : 22 : SSH-2.0-OpenSSH_5.3p1 Debian-3ubuntu7 : Los Angeles,CA,United States : -118.243700,34.052200
+70.6.150.233 : 22 : SSH-2.0-dropbear_0.51 : Heber City,UT,United States : -111.194600,40.436300
+70.6.159.224 : 22 : SSH-2.0-OpenSSH_5.2 : La Mesa,CA,United States : -117.023100,32.767800
+70.6.181.147 : 23 : ! : Fallbrook,CA,United States : -117.251100,33.376400
+70.6.204.14 : 22 : SSH-2.0-dropbear_0.51 : Scottsdale,AZ,United States : -111.899000,33.509200
+70.6.212.111 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : United States : -97.000000,38.000000
+70.6.228.118 : 22 : SSH-2.0-dropbear_0.53.1 : Los Angeles,CA,United States : -118.243700,34.052200
+70.7.3.119 : 22 : SSH-2.0-OpenSSH_5.3p1 Debian-3ubuntu7 : Atwood,CA,United States : -117.830900,33.865600
+70.7.28.215 : 23 : ! : San Pedro,CA,United States : -118.292300,33.735800
+70.7.42.215 : 22 : SSH-2.0-OpenSSH_5.3p1 Debian-3ubuntu7 : Pomona,CA,United States : -117.752300,34.055300
+70.7.88.96 : 22 : SSH-2.0-OpenSSH_5.8p1 Debian-1ubuntu3 : Los Angeles,CA,United States : -118.243700,34.052200
+70.7.89.100 : 23 : ! : Los Angeles,CA,United States : -118.243700,34.052200
+70.7.90.246 : 23 :  : Los Angeles,CA,United States : -118.243700,34.052200
+70.7.105.44 : 22 : SSH-2.0-dropbear_0.52 : United States : -97.000000,38.000000
+70.7.106.69 : 23 : ! : United States : -97.000000,38.000000
+70.7.142.59 : 23 : ! : United States : -97.000000,38.000000
+70.7.165.93 : 23 : Probe in use by IP = 208.10.65.140:52427 : Los Angeles,CA,United States : -118.243700,34.052200
+70.7.165.93 : 22 : SSH-1.99-OpenSSH_3.9p1 : Los Angeles,CA,United States : -118.243700,34.052200
+70.7.172.83 : 23 : ! : United States : -97.000000,38.000000
+70.7.178.188 : 21 :  : Arcadia,CA,United States : -118.035300,34.139700
+70.7.188.106 : 23 : ! : Phoenix,AZ,United States : -112.074000,33.448400
+70.7.188.106 : 21 : 220 AT91RM9200DK FTP server (Version 6.4/OpenBSD/Linux-ftpd-0.17) ready. : Phoenix,AZ,United States : -112.074000,33.448400
+70.7.227.217 : 23 : ! : Inglewood,CA,United States : -118.353100,33.961700
+70.7.250.91 : 23 : ! : Los Angeles,CA,United States : -118.243700,34.052200
+70.8.41.143 : 22 : SSH-1.99-OpenSSH_4.1 : Baltimore,MD,United States : -76.612200,39.290400
+70.8.53.231 : 23 : ! : Washington,DC,United States : -77.036400,38.895100
+70.8.60.32 : 22 : SSH-1.99-OpenSSH_4.1 : United States : -97.000000,38.000000
+70.8.70.225 : 22 : SSH-1.99-OpenSSH_4.1 : Warrenton,VA,United States : -77.795300,38.713500
+70.8.78.131 : 22 : SSH-2.0-ful0nUeM : Glen Burnie,MD,United States : -76.624700,39.162600
+70.8.81.236 : 22 : SSH-2.0-oG8fd : Franklin,IN,United States : -86.047800,39.483500
+70.8.82.236 : 22 : SSH-1.99-OpenSSH_4.1 : Franklin,IN,United States : -86.047800,39.483500
+70.8.128.253 : 22 : SSH-2.0-OpenSSH_5.3p1 Debian-3ubuntu7 : United States : -97.000000,38.000000
+70.8.158.122 : 22 : SSH-2.0-csrzC : United States : -97.000000,38.000000
+70.8.160.199 : 22 : SSH-1.99-OpenSSH_4.1 : Catlett,VA,United States : -77.625200,38.624900
+70.8.183.245 : 22 : SSH-1.99-OpenSSH_3.5p1 : Alexandria,VA,United States : -77.046900,38.804800
+70.8.192.210 : 22 : SSH-1.99-OpenSSH_4.1 : Randallstown,MD,United States : -76.813900,39.378800
+70.9.48.146 : 23 :  : North Webster,IN,United States : -85.660000,41.326700
+70.9.53.251 : 21 :  : North Webster,IN,United States : -85.660000,41.326700
+70.9.63.85 : 22 : SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1.2 : Hamilton,OH,United States : -84.561300,39.399500
+70.9.80.227 : 22 : SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1.2 : Chicago,IL,United States : -87.650000,41.850000
+70.9.131.195 : 21 : 220 Microsoft FTP Service : Indianapolis,IN,United States : -86.158000,39.768400
+70.9.131.19 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : Indianapolis,IN,United States : -86.158000,39.768400
+70.9.150.180 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : United States : -97.000000,38.000000
+70.9.163.80 : 22 : SSH-2.0-8O-UX : Waukesha,WI,United States : -88.231500,43.011700
+70.10.7.94 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.10.36.181 : 22 : SSH-2.0-dropbear_0.48 : Locust Grove,GA,United States : -84.115500,33.344800
+70.10.41.79 : 22 : SSH-1.99-OpenSSH_3.5p1 : United States : -97.000000,38.000000
+70.10.54.231 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : Charlotte,NC,United States : -80.843100,35.227100
+70.10.54.231 : 21 : 220 Microsoft FTP Service : Charlotte,NC,United States : -80.843100,35.227100
+70.10.68.73 : 22 : SSH-2.0-dropbear_0.48 : Goldsboro,NC,United States : -77.992800,35.384900
+70.10.136.71 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.10.136.134 : 23 : Probe in use by IP = 208.10.65.140:47112 : United States : -97.000000,38.000000
+70.10.137.246 : 21 : 220 Microsoft FTP Service : United States : -97.000000,38.000000
+70.10.141.252 : 22 : SSH-2.0-dropbear_0.48 : Tampa,FL,United States : -82.458400,27.947500
+70.10.160.68 : 22 : SSH-1.99-OpenSSH_3.5p1 : Richmond,VA,United States : -77.460300,37.553800
+70.10.160.243 : 22 : SSH-2.0-dropbear_0.48 : Richmond,VA,United States : -77.460300,37.553800
+70.10.177.214 : 21 :  : Lawrenceville,GA,United States : -83.988000,33.956200
+70.10.185.186 : 22 : SSH-1.99-OpenSSH_3.5p1 : Daytona Beach,FL,United States : -81.022800,29.210800
+70.10.192.42 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.10.194.207 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.10.212.238 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.10.250.49 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : United States : -97.000000,38.000000
+70.10.254.186 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.11.1.67 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : Charlotte,NC,United States : -80.843100,35.227100
+70.11.9.183 : 23 : %'   : Smithfield,NC,United States : -78.351400,35.481300
+70.11.36.70 : 22 : SSH-2.0-SSH_2.0 : United States : -97.000000,38.000000
+70.11.36.70 : 23 :  : United States : -97.000000,38.000000
+70.11.47.1 : 22 : SSH-2.0-dropbear_0.48 : Alpharetta,GA,United States : -84.294100,34.075400
+70.11.68.141 : 21 : 220 Microsoft FTP Service : United States : -97.000000,38.000000
+70.11.120.51 : 22 : SSH-2.0-JkUWEqma : United States : -97.000000,38.000000
+70.11.161.249 : 21 : 220 Microsoft FTP Service : Atlanta,GA,United States : -84.388000,33.749000
+70.11.168.245 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : Miami Beach,FL,United States : -80.130000,25.790600
+70.11.168.245 : 21 : 220 Microsoft FTP Service : Miami Beach,FL,United States : -80.130000,25.790600
+70.11.183.46 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.11.217.80 : 23 : ! : Richmond,VA,United States : -77.460300,37.553800
+70.11.227.67 : 22 : SSH-2.0-OpenSSH_5.8 : Jacksonville,FL,United States : -81.655600,30.332200
+70.12.13.220 : 23 :  : United States : -97.000000,38.000000
+70.12.37.107 : 22 : SSH-1.99-OpenSSH_4.1 : United States : -97.000000,38.000000
+70.12.38.26 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : United States : -97.000000,38.000000
+70.12.70.76 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : United States : -97.000000,38.000000
+70.12.81.72 : 22 : SSH-2.0-dropbear_0.52 : Saint Joseph,MO,United States : -94.846600,39.768600
+70.12.147.104 : 22 : SSH-2.0-_IaBP5WW0KQ : United States : -97.000000,38.000000
+70.12.150.199 : 22 : SSH-2.0-dropbear_0.52 : United States : -97.000000,38.000000
+70.12.151.33 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.12.155.108 : 22 : SSH-2.0-dropbear_0.48 : Portland,TN,United States : -86.527200,36.552200
+70.12.192.72 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.12.209.248 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.12.235.30 : 22 : SSH-2.0-dropbear_0.51 : Kansas City,MO,United States : -94.578600,39.099700
+70.13.4.233 : 23 :  : United States : -97.000000,38.00000070.13.4.233 : 21 :  : United States : -97.000000,38.000000
+70.13.72.245 : 21 : 220 Display1 FTP server (Version 6.4/OpenBSD/Linux-ftpd-0.17) ready. : United States : -97.000000,38.000000
+70.13.76.128 : 22 : SSH-2.0-zZXGc : Sainte Genevieve,MO,United States : -90.144200,37.881300
+70.13.81.218 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000
+70.13.104.4 : 22 : SSH-2.0-SSH_2.0 : United States : -97.000000,38.000000
+70.13.104.4 : 23 :  : United States : -97.000000,38.000000
+70.13.140.84 : 22 : SSH-1.99-OpenSSH_3.5p1 : Granite City,IL,United States : -90.107200,38.732800
+70.13.144.110 : 22 : SSH-1.99-OpenSSH_4.6 : United States : -97.000000,38.000000
+70.13.145.187 : 22 : SSH-1.99-OpenSSH_3.5p1 : United States : -97.000000,38.000000
+70.13.173.182 : 22 : SSH-1.99-OpenSSH_3.5p1 : United States : -97.000000,38.000000
+70.13.183.207 : 22 : SSH-2.0-7TylHR52sYHf-0a : East Saint Louis,IL,United States : -90.150900,38.624500
+70.13.195.83 : 22 : SSH-2.0-dropbear_0.48 : Wetumpka,AL,United States : -86.211900,32.543700
+70.13.195.246 : 22 : SSH-2.0-WeOnlyDo 2.1.0 : Wetumpka,AL,United States : -86.211900,32.543700
+70.13.203.244 : 22 : SSH-2.0-qpOrL : United States : -97.000000,38.000000
+70.13.232.238 : 21 : 220 Microsoft FTP Service : Florissant,MO,United States : -90.322600,38.789200
+70.13.240.43 : 22 : SSH-2.0-dropbear_0.48 : United States : -97.000000,38.000000

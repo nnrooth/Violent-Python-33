@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Placemark><name>
+70.100.8.59</name><Point><coordinates>-81.183200,37.294200</coordinates></Point></Placemark><Placemark><name>
+70.100.8.28</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.8.2</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.8.31</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.8.193</name><Point><coordinates>-81.183200,37.294200</coordinates></Point></Placemark><Placemark><name>
+70.100.8.169</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.8.209</name><Point><coordinates>-81.183200,37.294200</coordinates></Point></Placemark><Placemark><name>
+70.100.8.217</name><Point><coordinates>-81.183200,37.294200</coordinates></Point></Placemark><Placemark><name>
+70.100.8.231</name><Point><coordinates>-81.183200,37.294200</coordinates></Point></Placemark><Placemark><name>
+70.100.8.230</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.8.245</name><Point><coordinates>-81.183200,37.294200</coordinates></Point></Placemark><Placemark><name>
+70.100.8.237</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.8.33</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.8.49</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.8.241</name><Point><coordinates>Bluefield,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.9.73</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.9.25</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.9.173</name><Point><coordinates>-81.041700,37.391000</coordinates></Point></Placemark><Placemark><name>
+70.100.9.229</name><Point><coordinates>-81.041700,37.391000</coordinates></Point></Placemark><Placemark><name>
+70.100.9.239</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.9.250</name><Point><coordinates>-81.041700,37.391000</coordinates></Point></Placemark><Placemark><name>
+70.100.9.244</name><Point><coordinates>-81.041700,37.391000</coordinates></Point></Placemark><Placemark><name>
+70.100.9.247</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.9.249</name><Point><coordinates>-81.041700,37.391000</coordinates></Point></Placemark><Placemark><name>
+70.100.9.248</name><Point><coordinates>-81.041700,37.391000</coordinates></Point></Placemark><Placemark><name>
+70.100.9.145</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.9.77</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.9.116</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.9.113</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.10.23</name><Point><coordinates>-80.631600,38.009100</coordinates></Point></Placemark><Placemark><name>
+70.100.10.14</name><Point><coordinates>-80.631600,38.009100</coordinates></Point></Placemark><Placemark><name>
+70.100.10.22</name><Point><coordinates>Rupert,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.10.177</name><Point><coordinates>-80.631600,38.009100</coordinates></Point></Placemark><Placemark><name>
+70.100.10.208</name><Point><coordinates>-80.631600,38.009100</coordinates></Point></Placemark><Placemark><name>
+70.100.10.213</name><Point><coordinates>-80.631600,38.009100</coordinates></Point></Placemark><Placemark><name>
+70.100.10.210</name><Point><coordinates>Rupert,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.10.20</name><Point><coordinates>Rupert,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.10.81</name><Point><coordinates>Rupert,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.10.121</name><Point><coordinates>Rupert,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.11.185</name><Point><coordinates>-80.631600,38.009100</coordinates></Point></Placemark><Placemark><name>
+70.100.11.183</name><Point><coordinates>-80.631600,38.009100</coordinates></Point></Placemark><Placemark><name>
+70.100.11.203</name><Point><coordinates>-80.631600,38.009100</coordinates></Point></Placemark><Placemark><name>
+70.100.11.39</name><Point><coordinates>Rupert,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.11.255</name><Point><coordinates>Rupert,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.134</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.157</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.197</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.158</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.173</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.87</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.86</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.105</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.5</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.97</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.161</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.12.185</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.13.5</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.13.193</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.13.236</name><Point><coordinates>-81.041700,37.391000</coordinates></Point></Placemark><Placemark><name>
+70.100.13.44</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.13.47</name><Point><coordinates>Princeton,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.14.23</name><Point><coordinates>Burnsville,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.14.205</name><Point><coordinates>-93.273700,44.779900</coordinates></Point></Placemark><Placemark><name>
+70.100.14.213</name><Point><coordinates>Burnsville,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.14.250</name><Point><coordinates>-93.273700,44.779900</coordinates></Point></Placemark><Placemark><name>
+70.100.14.249</name><Point><coordinates>-93.273700,44.779900</coordinates></Point></Placemark><Placemark><name>
+70.100.14.73</name><Point><coordinates>Burnsville,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.14.89</name><Point><coordinates>Burnsville,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.25.153</name><Point><coordinates>-114.149400,34.872200</coordinates></Point></Placemark><Placemark><name>
+70.100.25.146</name><Point><coordinates>-114.149400,34.872200</coordinates></Point></Placemark><Placemark><name>
+70.100.25.159</name><Point><coordinates>-114.149400,34.872200</coordinates></Point></Placemark><Placemark><name>
+70.100.25.174</name><Point><coordinates>-114.149400,34.872200</coordinates></Point></Placemark><Placemark><name>
+70.100.25.227</name><Point><coordinates>Yucca,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.1</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.21</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.42</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.65</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.202</name><Point><coordinates>50</coordinates></Point></Placemark><Placemark><name>
+70.100.26.10</name><Point><coordinates>48</coordinates></Point></Placemark><Placemark><name>
+70.100.26.27</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.26</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.214</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.195</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.234</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.213</name><Point><coordinates>-93.116800,44.627200</coordinates></Point></Placemark><Placemark><name>
+70.100.26.221</name><Point><coordinates>-93.116800,44.627200</coordinates></Point></Placemark><Placemark><name>
+70.100.26.57</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.73</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.141</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.205</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.85</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.145</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.201</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.209</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.225</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.26.249</name><Point><coordinates>Farmington,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.27.186</name><Point><coordinates>Hastings,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.27.131</name><Point><coordinates>Hastings,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.27.129</name><Point><coordinates>Hastings,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.27.17</name><Point><coordinates>-92.884900,44.684900</coordinates></Point></Placemark><Placemark><name>
+70.100.27.19</name><Point><coordinates>-92.884900,44.684900</coordinates></Point></Placemark><Placemark><name>
+70.100.27.108</name><Point><coordinates>-92.884900,44.684900</coordinates></Point></Placemark><Placemark><name>
+70.100.27.245</name><Point><coordinates>Hastings,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.27.137</name><Point><coordinates>Hastings,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.64</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.15</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.186</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.226</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.252</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.254</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.69</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.181</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.237</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.141</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.28.197</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.29.150</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.29.217</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.29.161</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.29.134</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.29.149</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.29.209</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.29.108</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.29.218</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.29.249</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.29.113</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.29.201</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.89</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.93</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.94</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.55</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.73</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.52</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.125</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.80</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.85</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.217</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.80</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.53</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.129</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.129</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.197</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.239</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.129</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.85</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.57</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.38</name><Point><coordinates>-93.217100,42.733000</coordinates></Point></Placemark><Placemark><name>
+70.100.30.141</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.225</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.30.65</name><Point><coordinates>Hampton,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.31.225</name><Point><coordinates>-120.618200,40.573000</coordinates></Point></Placemark><Placemark><name>
+70.100.31.233</name><Point><coordinates>-120.618200,40.573000</coordinates></Point></Placemark><Placemark><name>
+70.100.31.238</name><Point><coordinates>36 -0500</coordinates></Point></Placemark><Placemark><name>
+70.100.31.237</name><Point><coordinates>-120.618200,40.573000</coordinates></Point></Placemark><Placemark><name>
+70.100.31.249</name><Point><coordinates>-120.618200,40.573000</coordinates></Point></Placemark><Placemark><name>
+70.100.31.1</name><Point><coordinates>Mt Meadows Area,CA,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.33.33</name><Point><coordinates>-110.029800,34.254200</coordinates></Point></Placemark><Placemark><name>
+70.100.33.204</name><Point><coordinates>-110.029800,34.254200</coordinates></Point></Placemark><Placemark><name>
+70.100.33.140</name><Point><coordinates>-110.029800,34.254200</coordinates></Point></Placemark><Placemark><name>
+70.100.33.124</name><Point><coordinates>-110.029800,34.254200</coordinates></Point></Placemark><Placemark><name>
+70.100.33.18</name><Point><coordinates>Show Low,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.33.19</name><Point><coordinates>Show Low,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.33.235</name><Point><coordinates>Show Low,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.33.233</name><Point><coordinates>Show Low,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.33.82</name><Point><coordinates>-110.029800,34.254200</coordinates></Point></Placemark><Placemark><name>
+70.100.33.81</name><Point><coordinates>Show Low,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.33.201</name><Point><coordinates>Show Low,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.33.237</name><Point><coordinates>Show Low,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.35.86</name><Point><coordinates>-121.616900,39.140500</coordinates></Point></Placemark><Placemark><name>
+70.100.35.18</name><Point><coordinates>-121.616900,39.140500</coordinates></Point></Placemark><Placemark><name>
+70.100.35.58</name><Point><coordinates>-121.616900,39.140500</coordinates></Point></Placemark><Placemark><name>
+70.100.35.58</name><Point><coordinates>-121.616900,39.140500</coordinates></Point></Placemark><Placemark><name>
+70.100.35.234</name><Point><coordinates>-121.616900,39.140500</coordinates></Point></Placemark><Placemark><name>
+70.100.35.198</name><Point><coordinates>-121.616900,39.140500</coordinates></Point></Placemark><Placemark><name>
+70.100.35.62</name><Point><coordinates>-121.616900,39.140500</coordinates></Point></Placemark><Placemark><name>
+70.100.43.185</name><Point><coordinates>-110.077200,34.233800</coordinates></Point></Placemark><Placemark><name>
+70.100.45.179</name><Point><coordinates>-110.029800,34.254200</coordinates></Point></Placemark><Placemark><name>
+70.100.48.12</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.12</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.13</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.12</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.25</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.17</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.65</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.20</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.48.123</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.101</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.48.126</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.97</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.48.121</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.48.125</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.172</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.175</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.183</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.137</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.176</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.180</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.48.181</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.197</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.198</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.208</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.210</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.200</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.211</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.189</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.226</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.48.241</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.209</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.237</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.227</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.17</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.17</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.48.109</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.48.185</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.48.129</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.49.45</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.44</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.65</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.60</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.49</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.190</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.205</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.25</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.174</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.234</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.245</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.253</name><Point><coordinates>-95.828700,44.761600</coordinates></Point></Placemark><Placemark><name>
+70.100.49.2</name><Point><coordinates>Clarkfield,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.50.193</name><Point><coordinates>20 -0600</coordinates></Point></Placemark><Placemark><name>
+70.100.50.192</name><Point><coordinates>20 -0600</coordinates></Point></Placemark><Placemark><name>
+70.100.50.195</name><Point><coordinates>20 -0600</coordinates></Point></Placemark><Placemark><name>
+70.100.50.194</name><Point><coordinates>20 -0600</coordinates></Point></Placemark><Placemark><name>
+70.100.50.226</name><Point><coordinates>51</coordinates></Point></Placemark><Placemark><name>
+70.100.56.249</name><Point><coordinates>-75.657200,42.924400</coordinates></Point></Placemark><Placemark><name>
+70.100.56.249</name><Point><coordinates>-75.657200,42.924400</coordinates></Point></Placemark><Placemark><name>
+70.100.56.249</name><Point><coordinates>-75.657200,42.924400</coordinates></Point></Placemark><Placemark><name>
+70.100.58.240</name><Point><coordinates>-75.657200,42.924400</coordinates></Point></Placemark><Placemark><name>
+70.100.59.227</name><Point><coordinates>-75.452300,42.687600</coordinates></Point></Placemark><Placemark><name>
+70.100.59.227</name><Point><coordinates>-75.452300,42.687600</coordinates></Point></Placemark><Placemark><name>
+70.100.59.227</name><Point><coordinates>-75.452300,42.687600</coordinates></Point></Placemark><Placemark><name>
+70.100.60.19</name><Point><coordinates>-76.075300,42.461400</coordinates></Point></Placemark><Placemark><name>
+70.100.60.200</name><Point><coordinates>-76.075300,42.461400</coordinates></Point></Placemark><Placemark><name>
+70.100.60.200</name><Point><coordinates>-76.075300,42.461400</coordinates></Point></Placemark><Placemark><name>
+70.100.60.234</name><Point><coordinates>-76.075300,42.461400</coordinates></Point></Placemark><Placemark><name>
+70.100.60.234</name><Point><coordinates>-76.075300,42.461400</coordinates></Point></Placemark><Placemark><name>
+70.100.61.199</name><Point><coordinates>-76.075300,42.461400</coordinates></Point></Placemark><Placemark><name>
+70.100.61.199</name><Point><coordinates>-76.075300,42.461400</coordinates></Point></Placemark><Placemark><name>
+70.100.62.19</name><Point><coordinates>-76.344200,42.375100</coordinates></Point></Placemark><Placemark><name>
+70.100.62.19</name><Point><coordinates>-76.344200,42.375100</coordinates></Point></Placemark><Placemark><name>
+70.100.62.19</name><Point><coordinates>-76.344200,42.375100</coordinates></Point></Placemark><Placemark><name>
+70.100.64.138</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.18</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.166</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.19</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.171</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.137</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.190</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.201</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.137</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.191</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.132</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.208</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.235</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.232</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.89</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.241</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.64.117</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.81</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.185</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.237</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.134</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.64.161</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.65.76</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.65.81</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.65.145</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.65.253</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.65.113</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.66.209</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.66.220</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.66.217</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.66.57</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.66.153</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.66.191</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.66.161</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.67.1</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.32</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.49</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.37</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.38</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.26</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.214</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.213</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.33</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.67.229</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.77</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.77</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.77</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.60</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.67.57</name><Point><coordinates>Welch,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.71.7</name><Point><coordinates>-81.575700,37.395600</coordinates></Point></Placemark><Placemark><name>
+70.100.74.1</name><Point><coordinates>-80.408900,39.584900</coordinates></Point></Placemark><Placemark><name>
+70.100.74.1</name><Point><coordinates>-80.408900,39.584900</coordinates></Point></Placemark><Placemark><name>
+70.100.74.50</name><Point><coordinates>-80.408900,39.584900</coordinates></Point></Placemark><Placemark><name>
+70.100.74.50</name><Point><coordinates>-80.408900,39.584900</coordinates></Point></Placemark><Placemark><name>
+70.100.74.50</name><Point><coordinates>-80.408900,39.584900</coordinates></Point></Placemark><Placemark><name>
+70.100.80.253</name><Point><coordinates>Kabetogama,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.87.83</name><Point><coordinates>-93.373700,48.507800</coordinates></Point></Placemark><Placemark><name>
+70.100.87.88</name><Point><coordinates>-93.373700,48.507800</coordinates></Point></Placemark><Placemark><name>
+70.100.126.166</name><Point><coordinates>-77.508100,43.149300</coordinates></Point></Placemark><Placemark><name>
+70.100.128.6</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.128.11</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.128.115</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.128.117</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.128.117</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.128.134</name><Point><coordinates>-77.585200,43.151800</coordinates></Point></Placemark><Placemark><name>
+70.100.128.224</name><Point><coordinates>-77.585200,43.151800</coordinates></Point></Placemark><Placemark><name>
+70.100.128.224</name><Point><coordinates>-77.585200,43.151800</coordinates></Point></Placemark><Placemark><name>
+70.100.129.60</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.129.42</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.129.42</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.36</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.78</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.78</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.119</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.109</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.109</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.201</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.201</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.140</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.140</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.205</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.201</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.205</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.205</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.130.252</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.133.67</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.67</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.56</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.11</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.78</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.78</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.11</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.127</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.11</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.133.78</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.134.138</name><Point><coordinates>-77.442700,43.147300</coordinates></Point></Placemark><Placemark><name>
+70.100.134.138</name><Point><coordinates>-77.442700,43.147300</coordinates></Point></Placemark><Placemark><name>
+70.100.134.106</name><Point><coordinates>-77.608200,43.129900</coordinates></Point></Placemark><Placemark><name>
+70.100.134.234</name><Point><coordinates>-77.442700,43.147300</coordinates></Point></Placemark><Placemark><name>
+70.100.134.241</name><Point><coordinates>-77.442700,43.147300</coordinates></Point></Placemark><Placemark><name>
+70.100.134.234</name><Point><coordinates>-77.442700,43.147300</coordinates></Point></Placemark><Placemark><name>
+70.100.134.138</name><Point><coordinates>-77.442700,43.147300</coordinates></Point></Placemark><Placemark><name>
+70.100.134.234</name><Point><coordinates>-77.442700,43.147300</coordinates></Point></Placemark><Placemark><name>
+70.100.135.116</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.74</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.74</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.116</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.65</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.65</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.173</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.116</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.65</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.220</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.135.56</name><Point><coordinates>-77.557600,43.115400</coordinates></Point></Placemark><Placemark><name>
+70.100.136.76</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.136.106</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.136.106</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.136.135</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.136.135</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.137.131</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.137.131</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.137.131</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.137.245</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.137.245</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.137.245</name><Point><coordinates>-77.731600,43.126700</coordinates></Point></Placemark><Placemark><name>
+70.100.138.65</name><Point><coordinates>-78.015000,43.081200</coordinates></Point></Placemark><Placemark><name>
+70.100.138.33</name><Point><coordinates>-78.015000,43.081200</coordinates></Point></Placemark><Placemark><name>
+70.100.138.27</name><Point><coordinates>-78.015000,43.081200</coordinates></Point></Placemark><Placemark><name>
+70.100.139.197</name><Point><coordinates>-77.668200,43.257200</coordinates></Point></Placemark><Placemark><name>
+70.100.140.83</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.140.83</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.140.79</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.140.83</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.140.66</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.140.114</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.140.239</name><Point><coordinates>-77.712500,43.214400</coordinates></Point></Placemark><Placemark><name>
+70.100.141.222</name><Point><coordinates>-77.864200,43.073600</coordinates></Point></Placemark><Placemark><name>
+70.100.141.243</name><Point><coordinates>-77.864200,43.073600</coordinates></Point></Placemark><Placemark><name>
+70.100.142.38</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.142.24</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.142.117</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.100.144.138</name><Point><coordinates>-77.689200,43.046300</coordinates></Point></Placemark><Placemark><name>
+70.100.144.139</name><Point><coordinates>-77.689200,43.046300</coordinates></Point></Placemark><Placemark><name>
+70.100.147.1</name><Point><coordinates>-77.597600,42.968000</coordinates></Point></Placemark><Placemark><name>
+70.100.147.18</name><Point><coordinates>-77.597600,42.968000</coordinates></Point></Placemark><Placemark><name>
+70.100.148.114</name><Point><coordinates>-77.704000,42.837300</coordinates></Point></Placemark><Placemark><name>
+70.100.151.74</name><Point><coordinates>-77.727500,42.583200</coordinates></Point></Placemark><Placemark><name>
+70.100.151.74</name><Point><coordinates>-77.727500,42.583200</coordinates></Point></Placemark><Placemark><name>
+70.100.151.74</name><Point><coordinates>-77.727500,42.583200</coordinates></Point></Placemark><Placemark><name>
+70.100.163.234</name><Point><coordinates>-77.383300,42.654800</coordinates></Point></Placemark><Placemark><name>
+70.100.170.202</name><Point><coordinates>-77.309600,42.832600</coordinates></Point></Placemark><Placemark><name>
+70.100.171.81</name><Point><coordinates>-77.615600,43.154800</coordinates></Point></Placemark><Placemark><name>
+70.100.187.240</name><Point><coordinates>-77.607100,43.041800</coordinates></Point></Placemark><Placemark><name>
+70.100.191.140</name><Point><coordinates>-77.637600,43.089900</coordinates></Point></Placemark><Placemark><name>
+70.100.196.40</name><Point><coordinates>-80.014600,38.170000</coordinates></Point></Placemark><Placemark><name>
+70.100.200.96</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.100.200.96</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.100.200.96</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.100.205.52</name><Point><coordinates>-75.507400,42.323000</coordinates></Point></Placemark><Placemark><name>
+70.100.244.203</name><Point><coordinates>-92.512800,45.126100</coordinates></Point></Placemark><Placemark><name>
+70.100.244.229</name><Point><coordinates>-92.512800,45.126100</coordinates></Point></Placemark><Placemark><name>
+70.100.244.21</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.244.156</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.245.189</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.245.240</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.245.243</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.245.188</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.245.242</name><Point><coordinates>-92.512800,45.126100</coordinates></Point></Placemark><Placemark><name>
+70.100.245.253</name><Point><coordinates>-92.512800,45.126100</coordinates></Point></Placemark><Placemark><name>
+70.100.245.254</name><Point><coordinates>-92.512800,45.126100</coordinates></Point></Placemark><Placemark><name>
+70.100.245.113</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.245.92</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.245.93</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.245.245</name><Point><coordinates>New Richmond,WI,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.246.49</name><Point><coordinates>-73.817500,42.008000</coordinates></Point></Placemark><Placemark><name>
+70.100.246.133</name><Point><coordinates>-73.817500,42.008000</coordinates></Point></Placemark><Placemark><name>
+70.100.246.93</name><Point><coordinates>-73.817500,42.008000</coordinates></Point></Placemark><Placemark><name>
+70.100.246.44</name><Point><coordinates>-73.817500,42.008000</coordinates></Point></Placemark><Placemark><name>
+70.100.246.84</name><Point><coordinates>-73.817500,42.008000</coordinates></Point></Placemark><Placemark><name>
+70.100.246.146</name><Point><coordinates>-73.817500,42.008000</coordinates></Point></Placemark><Placemark><name>
+70.100.246.161</name><Point><coordinates>-73.817500,42.008000</coordinates></Point></Placemark><Placemark><name>
+70.100.246.164</name><Point><coordinates>-73.817500,42.008000</coordinates></Point></Placemark><Placemark><name>
+70.100.246.255</name><Point><coordinates>Red Hook,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.246.67</name><Point><coordinates>Red Hook,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.246.106</name><Point><coordinates>Red Hook,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.247.62</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.100.247.105</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.248.25</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.248.118</name><Point><coordinates>22 -0500</coordinates></Point></Placemark><Placemark><name>
+70.100.248.9</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.249.13</name><Point><coordinates>Penfield,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.249.77</name><Point><coordinates>Penfield,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.249.73</name><Point><coordinates>Penfield,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.249.53</name><Point><coordinates>Penfield,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.249.57</name><Point><coordinates>Penfield,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.250.53</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.250.61</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.250.81</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.250.105</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.250.209</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.250.241</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.250.201</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.1</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.73</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.121</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.122</name><Point><coordinates>56</coordinates></Point></Placemark><Placemark><name>
+70.100.251.153</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.201</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.245</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.129</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.249</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.209</name><Point><coordinates>Rochester,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.100.251.210</name><Point><coordinates>-77.613900,43.158400</coordinates></Point></Placemark><Placemark><name>
+70.101.1.187</name><Point><coordinates>58</coordinates></Point></Placemark><Placemark><name>
+70.101.8.98</name><Point><coordinates>-77.684300,43.286000</coordinates></Point></Placemark><Placemark><name>
+70.101.25.217</name><Point><coordinates>-77.713800,43.173000</coordinates></Point></Placemark><Placemark><name>
+70.101.28.20</name><Point><coordinates>-77.632800,43.141200</coordinates></Point></Placemark><Placemark><name>
+70.101.29.232</name><Point><coordinates>-77.632800,43.141200</coordinates></Point></Placemark><Placemark><name>
+70.101.29.232</name><Point><coordinates>-77.632800,43.141200</coordinates></Point></Placemark><Placemark><name>
+70.101.36.52</name><Point><coordinates>-77.650800,43.135500</coordinates></Point></Placemark><Placemark><name>
+70.101.42.166</name><Point><coordinates>-77.668200,43.257200</coordinates></Point></Placemark><Placemark><name>
+70.101.47.69</name><Point><coordinates>-77.603700,43.155800</coordinates></Point></Placemark><Placemark><name>
+70.101.91.62</name><Point><coordinates>49 -0500</coordinates></Point></Placemark><Placemark><name>
+70.101.96.253</name><Point><coordinates>-77.585200,43.151800</coordinates></Point></Placemark><Placemark><name>
+70.101.126.120</name><Point><coordinates>-77.545100,43.142600</coordinates></Point></Placemark><Placemark><name>
+70.101.126.48</name><Point><coordinates>-77.545100,43.142600</coordinates></Point></Placemark><Placemark><name>
+70.101.127.153</name><Point><coordinates>-77.545100,43.142600</coordinates></Point></Placemark><Placemark><name>
+70.101.138.17</name><Point><coordinates>Morgantown,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.138.253</name><Point><coordinates>-79.955900,39.629500</coordinates></Point></Placemark><Placemark><name>
+70.101.138.81</name><Point><coordinates>Morgantown,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.138.227</name><Point><coordinates>-79.955900,39.629500</coordinates></Point></Placemark><Placemark><name>
+70.101.138.12</name><Point><coordinates>Morgantown,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.138.63</name><Point><coordinates>Morgantown,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.138.79</name><Point><coordinates>Morgantown,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.138.76</name><Point><coordinates>Morgantown,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.138.99</name><Point><coordinates>-79.955900,39.629500</coordinates></Point></Placemark><Placemark><name>
+70.101.138.209</name><Point><coordinates>Morgantown,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.139.17</name><Point><coordinates>-81.085400,38.668500</coordinates></Point></Placemark><Placemark><name>
+70.101.139.241</name><Point><coordinates>-81.085400,38.668500</coordinates></Point></Placemark><Placemark><name>
+70.101.139.160</name><Point><coordinates>-81.085400,38.668500</coordinates></Point></Placemark><Placemark><name>
+70.101.139.165</name><Point><coordinates>-81.085400,38.668500</coordinates></Point></Placemark><Placemark><name>
+70.101.139.25</name><Point><coordinates>Chloe,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.139.16</name><Point><coordinates>Chloe,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.139.143</name><Point><coordinates>Chloe,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.139.157</name><Point><coordinates>Chloe,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.141.243</name><Point><coordinates>-79.790700,39.581800</coordinates></Point></Placemark><Placemark><name>
+70.101.144.249</name><Point><coordinates>-116.176800,43.927000</coordinates></Point></Placemark><Placemark><name>
+70.101.145.60</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.145.60</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.146.32</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.147.178</name><Point><coordinates>-116.478700,45.399900</coordinates></Point></Placemark><Placemark><name>
+70.101.153.205</name><Point><coordinates>-88.674200,34.368100</coordinates></Point></Placemark><Placemark><name>
+70.101.157.96</name><Point><coordinates>-93.734400,45.088300</coordinates></Point></Placemark><Placemark><name>
+70.101.157.215</name><Point><coordinates>-93.734400,45.088300</coordinates></Point></Placemark><Placemark><name>
+70.101.157.215</name><Point><coordinates>-93.734400,45.088300</coordinates></Point></Placemark><Placemark><name>
+70.101.157.215</name><Point><coordinates>-93.734400,45.088300</coordinates></Point></Placemark><Placemark><name>
+70.101.224.53</name><Point><coordinates>New York,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.224.89</name><Point><coordinates>New York,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.224.95</name><Point><coordinates>New York,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.224.52</name><Point><coordinates>New York,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.224.75</name><Point><coordinates>New York,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.224.72</name><Point><coordinates>New York,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.224.114</name><Point><coordinates>New York,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.224.57</name><Point><coordinates>New York,NY,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.225.113</name><Point><coordinates>-85.133200,35.868100</coordinates></Point></Placemark><Placemark><name>
+70.101.225.114</name><Point><coordinates>06</coordinates></Point></Placemark><Placemark><name>
+70.101.225.124</name><Point><coordinates>-85.133200,35.868100</coordinates></Point></Placemark><Placemark><name>
+70.101.225.124</name><Point><coordinates>-85.133200,35.868100</coordinates></Point></Placemark><Placemark><name>
+70.101.225.248</name><Point><coordinates>-85.133200,35.868100</coordinates></Point></Placemark><Placemark><name>
+70.101.225.253</name><Point><coordinates>-85.133200,35.868100</coordinates></Point></Placemark><Placemark><name>
+70.101.225.129</name><Point><coordinates>Crossville,TN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.225.137</name><Point><coordinates>Crossville,TN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.225.145</name><Point><coordinates>Crossville,TN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.226.80</name><Point><coordinates>Osseo,MI,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.226.11</name><Point><coordinates>Osseo,MI,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.226.74</name><Point><coordinates>-84.545200,41.822000</coordinates></Point></Placemark><Placemark><name>
+70.101.226.173</name><Point><coordinates>-84.545200,41.822000</coordinates></Point></Placemark><Placemark><name>
+70.101.226.85</name><Point><coordinates>Osseo,MI,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.227.193</name><Point><coordinates>-85.133200,35.868100</coordinates></Point></Placemark><Placemark><name>
+70.101.227.177</name><Point><coordinates>Crossville,TN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.227.89</name><Point><coordinates>Crossville,TN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.228.105</name><Point><coordinates>Villisca,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.228.73</name><Point><coordinates>Villisca,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.228.49</name><Point><coordinates>Villisca,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.228.249</name><Point><coordinates>Villisca,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.228.250</name><Point><coordinates>-94.977400,40.999000</coordinates></Point></Placemark><Placemark><name>
+70.101.228.121</name><Point><coordinates>Villisca,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.228.117</name><Point><coordinates>Villisca,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.228.225</name><Point><coordinates>Villisca,IA,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.229.49</name><Point><coordinates>-93.707200,44.235800</coordinates></Point></Placemark><Placemark><name>
+70.101.229.54</name><Point><coordinates>-93.707200,44.235800</coordinates></Point></Placemark><Placemark><name>
+70.101.229.237</name><Point><coordinates>-93.707200,44.235800</coordinates></Point></Placemark><Placemark><name>
+70.101.229.241</name><Point><coordinates>-93.707200,44.235800</coordinates></Point></Placemark><Placemark><name>
+70.101.229.249</name><Point><coordinates>-93.707200,44.235800</coordinates></Point></Placemark><Placemark><name>
+70.101.229.242</name><Point><coordinates>-93.707200,44.235800</coordinates></Point></Placemark><Placemark><name>
+70.101.229.165</name><Point><coordinates>Elysian,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.229.154</name><Point><coordinates>Elysian,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.230.153</name><Point><coordinates>-114.307800,34.613500</coordinates></Point></Placemark><Placemark><name>
+70.101.230.115</name><Point><coordinates>-114.307800,34.613500</coordinates></Point></Placemark><Placemark><name>
+70.101.230.177</name><Point><coordinates>Lake Havasu City,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.230.179</name><Point><coordinates>Lake Havasu City,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.230.3</name><Point><coordinates>-114.307800,34.613500</coordinates></Point></Placemark><Placemark><name>
+70.101.230.185</name><Point><coordinates>Lake Havasu City,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.230.152</name><Point><coordinates>Lake Havasu City,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.231.72</name><Point><coordinates>-114.307800,34.613500</coordinates></Point></Placemark><Placemark><name>
+70.101.231.77</name><Point><coordinates>-114.307800,34.613500</coordinates></Point></Placemark><Placemark><name>
+70.101.231.7</name><Point><coordinates>-114.307800,34.613500</coordinates></Point></Placemark><Placemark><name>
+70.101.231.6</name><Point><coordinates>Lake Havasu City,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.231.180</name><Point><coordinates>-114.328600,34.484900</coordinates></Point></Placemark><Placemark><name>
+70.101.231.185</name><Point><coordinates>-114.328600,34.484900</coordinates></Point></Placemark><Placemark><name>
+70.101.231.182</name><Point><coordinates>-114.328600,34.484900</coordinates></Point></Placemark><Placemark><name>
+70.101.231.201</name><Point><coordinates>Lake Havasu City,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.231.216</name><Point><coordinates>-114.328600,34.484900</coordinates></Point></Placemark><Placemark><name>
+70.101.231.203</name><Point><coordinates>-114.328600,34.484900</coordinates></Point></Placemark><Placemark><name>
+70.101.231.220</name><Point><coordinates>-114.328600,34.484900</coordinates></Point></Placemark><Placemark><name>
+70.101.231.249</name><Point><coordinates>-114.328600,34.484900</coordinates></Point></Placemark><Placemark><name>
+70.101.231.90</name><Point><coordinates>Lake Havasu City,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.231.88</name><Point><coordinates>Lake Havasu City,AZ,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.232.154</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.232.10</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.232.9</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.232.166</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.232.241</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.232.17</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.233.9</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.233.27</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.233.201</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.233.10</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.233.235</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.233.117</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.233.253</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.233.169</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.33</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.41</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.161</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.73</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.205</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.137</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.153</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.169</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.105</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.61</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.25</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.241</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.49</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.101</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.234.62</name><Point><coordinates>21 -0500</coordinates></Point></Placemark><Placemark><name>
+70.101.235.74</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.235.89</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.235.95</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.235.137</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.235.220</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.235.243</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.235.245</name><Point><coordinates>Mccall,ID,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.235.230</name><Point><coordinates>-115.779100,44.884200</coordinates></Point></Placemark><Placemark><name>
+70.101.240.22</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.240.67</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.240.66</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.240.9</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.240.252</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.240.253</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.240.26</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.240.29</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.5</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.17</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.32</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.34</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.138</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.208</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.140</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.225</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.24</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.18</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.219</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.223</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.191</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.188</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.241.8</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.16</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.20</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.154</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.45</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.35</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.37</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.41</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.138</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.232</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.237</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.244</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.245</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.242.34</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.130</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.128</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.152</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.161</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.166</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.134</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.216</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.214</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.230</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.216</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.239</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.241</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.249</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.249</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.251</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.219</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.248</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.217</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.228</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.221</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.252</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.218</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.253</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.244.236</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.4</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.4</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.5</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.3</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.13</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.11</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.13</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.8</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.130</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.134</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.21</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.52</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.48</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.47</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.48</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.137</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.59</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.132</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.42</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.129</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.38</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.142</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.210</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.138</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.137</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.141</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.54</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.206</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.209</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.186</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.187</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.143</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.186</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.209</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.244</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.254</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.255</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.20</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.136</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.185</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.145</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.140</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.19</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.33</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.24</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.31</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.25</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.62</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.226</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.131</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.127</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.41</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.245.204</name><Point><coordinates>-97.000000,38.000000</coordinates></Point></Placemark><Placemark><name>
+70.101.248.109</name><Point><coordinates>-92.987400,45.398000</coordinates></Point></Placemark><Placemark><name>
+70.101.248.105</name><Point><coordinates>-92.987400,45.398000</coordinates></Point></Placemark><Placemark><name>
+70.101.248.4</name><Point><coordinates>-92.987400,45.398000</coordinates></Point></Placemark><Placemark><name>
+70.101.248.17</name><Point><coordinates>-92.987400,45.398000</coordinates></Point></Placemark><Placemark><name>
+70.101.248.189</name><Point><coordinates>Stacy,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.248.106</name><Point><coordinates>27 -0600</coordinates></Point></Placemark><Placemark><name>
+70.101.248.229</name><Point><coordinates>Stacy,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.248.86</name><Point><coordinates>-92.987400,45.398000</coordinates></Point></Placemark><Placemark><name>
+70.101.249.179</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.249.241</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.249.241</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.249.101</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.249.100</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.249.102</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.249.233</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.250.73</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.200</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.250.54</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.50</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.250.181</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.196</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.250.41</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.213</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.218</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.250.225</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.219</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.250.233</name><Point><coordinates>-93.816600,45.036700</coordinates></Point></Placemark><Placemark><name>
+70.101.250.45</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.49</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.65</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.27</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.26</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.55</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.92</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.69</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.81</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.250.97</name><Point><coordinates>Delano,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.251.5</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.9</name><Point><coordinates>Mound,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.251.69</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.105</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.34</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.115</name><Point><coordinates>Mound,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.251.54</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.37</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.52</name><Point><coordinates>Mound,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.251.54</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.223</name><Point><coordinates>Mound,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.251.55</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.104</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.110</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.109</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.105</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.106</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.248</name><Point><coordinates>Mound,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.251.246</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.54</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.104</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.105</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.178</name><Point><coordinates>-93.676200,44.934700</coordinates></Point></Placemark><Placemark><name>
+70.101.251.61</name><Point><coordinates>Mound,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.251.253</name><Point><coordinates>Mound,MN,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.2</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.9</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.21</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.61</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.22</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.69</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.233</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.253</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.137</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.249</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.4</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.81</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.84</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.129</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.252.89</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.212</name><Point><coordinates>-79.620300,39.196000</coordinates></Point></Placemark><Placemark><name>
+70.101.253.41</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.217</name><Point><coordinates>-79.620300,39.196000</coordinates></Point></Placemark><Placemark><name>
+70.101.253.150</name><Point><coordinates>-79.620300,39.196000</coordinates></Point></Placemark><Placemark><name>
+70.101.253.229</name><Point><coordinates>-79.620300,39.196000</coordinates></Point></Placemark><Placemark><name>
+70.101.253.244</name><Point><coordinates>-79.620300,39.196000</coordinates></Point></Placemark><Placemark><name>
+70.101.253.215</name><Point><coordinates>Parsons,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.249</name><Point><coordinates>-79.620300,39.196000</coordinates></Point></Placemark><Placemark><name>
+70.101.253.254</name><Point><coordinates>-79.620300,39.196000</coordinates></Point></Placemark><Placemark><name>
+70.101.253.73</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.72</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.117</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.148</name><Point><coordinates>Parsons,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.89</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.77</name><Point><coordinates>Harman,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.253.241</name><Point><coordinates>Parsons,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.159</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.209</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.15</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.252</name><Point><coordinates>-80.005900,38.536800</coordinates></Point></Placemark><Placemark><name>
+70.101.254.245</name><Point><coordinates>-80.005900,38.536800</coordinates></Point></Placemark><Placemark><name>
+70.101.254.255</name><Point><coordinates>-80.005900,38.536800</coordinates></Point></Placemark><Placemark><name>
+70.101.254.33</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.53</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.169</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.161</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.12</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.48</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.50</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.81</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.158</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.121</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.254.194</name><Point><coordinates>-80.005900,38.536800</coordinates></Point></Placemark><Placemark><name>
+70.101.255.45</name><Point><coordinates>-80.005900,38.536800</coordinates></Point></Placemark><Placemark><name>
+70.101.255.105</name><Point><coordinates>-80.005900,38.536800</coordinates></Point></Placemark><Placemark><name>
+70.101.255.247</name><Point><coordinates>-80.005900,38.536800</coordinates></Point></Placemark><Placemark><name>
+70.101.255.25</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark><Placemark><name>
+70.101.255.44</name><Point><coordinates>Valley Head,WV,United States</coordinates></Point></Placemark>
+</Document>
+</kml>

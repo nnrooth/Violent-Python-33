@@ -1,0 +1,134 @@
+71.90.6.213:22:SSH-2.0-OpenSSH_5.9:Madison,WI,United States:-89.518100,43.028600
+71.90.8.101:22:SSH-2.0-OpenSSH_3.9p1:Rice Lake,WI,United States:-91.699900,45.523300
+71.90.9.1:21:220 Microsoft FTP Service:Rice Lake,WI,United States:-91.699900,45.523300
+71.90.9.1:22:SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1:Rice Lake,WI,United States:-91.699900,45.523300
+71.90.18.11:21:220 Welcome to ASUS RT-N16 FTP service.:Fort Atkinson,WI,United States:-88.799100,42.898700
+71.90.18.15:21:220 Welcome to Cisco74117's FTP service:Fort Atkinson,WI,United States:-88.799100,42.898700
+71.90.23.128:22:SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1:Madison,WI,United States:-89.518100,43.028600
+71.90.24.227:22:SSH-2.0-dropbear_0.52:Madison,WI,United States:-89.314500,43.063900
+71.90.29.222:22:SSH-2.0-OpenSSH_5.3:Madison,WI,United States:-89.375800,43.079600
+71.90.29.222:110:+OK POP3 serenity.localdomain 2004.89 server ready:Madison,WI,United States:-89.375800,43.079600
+71.90.32.226:21:220 Welcome to K-Boom FTP Server:Beaver Dam,WI,United States:-88.805200,43.458800
+71.90.33.157:21:220 bftpd 1.6.6 at 71.90.33.157 ready.:Neosho,WI,United States:-88.526800,43.288700
+71.90.36.129:22:SSH-2.0-OpenSSH_5.6:Waterloo,WI,United States:-88.964900,43.162900
+71.90.36.217:22:SSH-2.0-OpenSSH_5.9:Waterloo,WI,United States:-88.964900,43.162900
+71.90.37.85:22:SSH-2.0-dropbear_2012.55:Edgerton,WI,United States:-89.102600,42.857500
+71.90.37.130:22:SSH-2.0-OpenSSH_5.3p1 Debian-3ubuntu7:Edgerton,WI,United States:-89.102600,42.857500
+71.90.46.195:22:SSH-2.0-OpenSSH_3.9p1:Reedsburg,WI,United States:-90.002600,43.532500
+71.90.48.250:21:230 User logged in.:Sheboygan,WI,United States:-87.774900,43.826100
+71.90.53.88:25:220 remote.lippertfuneralhome.com Microsoft ESMTP MAIL Service ready at Tue, 5 Mar 2013 20:43:04 -0600:Sheboygan,WI,United States:-87.747800,43.709800
+71.90.58.3:21:530 Connection refused, unknown IP address.:Sheboygan,WI,United States:-87.714500,43.750800
+71.90.58.207:22::Sheboygan,WI,United States:-87.714500,43.750800
+71.90.63.4:22:SSH-2.0-OpenSSH_5.1p1 Debian-5:Sheboygan,WI,United States:-87.774900,43.826100
+71.90.64.53:21:230 User logged in.:Rockton,IL,United States:-89.171500,42.465600
+71.90.70.175:21:220 (vsFTPd 2.0.7):Baraboo,WI,United States:-89.739900,43.480700
+71.90.71.97:22:SSH-1.99-OpenSSH_2.3.0_Mikrotik_v2.9:Baraboo,WI,United States:-89.739900,43.480700
+71.90.71.87:22:SSH-2.0-OpenSSH_4.3-HipServ:Baraboo,WI,United States:-89.739900,43.480700
+71.90.72.95:22:SSH-2.0-OpenSSH_4.3-HipServ:Beloit,WI,United States:-89.159900,42.558400
+71.90.72.252:22:SSH-2.0-OpenSSH_3.9p1:Beloit,WI,United States:-89.159900,42.558400
+71.90.77.250:22:SSH-2.0-OpenSSH_6.0p1 Debian-4:Madison,WI,United States:-89.518100,43.028600
+71.90.79.24:22:SSH-2.0-OpenSSH_3.9p1:Madison,WI,United States:-89.518100,43.028600
+71.90.79.163:22:SSH-2.0-OpenSSH_6.0p1 Debian-3:Madison,WI,United States:-89.518100,43.028600
+71.90.79.244:22:SSH-2.0-OpenSSH_3.9p1:Madison,WI,United States:-89.518100,43.028600
+71.90.80.173:21:220 bftpd 1.6.6 at 71.90.80.173 ready.:Madison,WI,United States:-89.401200,43.073100
+71.90.84.32:22:SSH-2.0-OpenSSH_5.4p1_hpn13v11 FreeBSD-20100308:Fort Atkinson,WI,United States:-88.799100,42.898700
+71.90.86.179:22:SSH-2.0-OpenSSH_3.9p1:Jefferson,WI,United States:-88.712300,42.972700
+71.90.89.226:22:SSH-2.0-OpenSSH_5.9:Sun Prairie,WI,United States:-89.202500,43.194600
+71.90.100.116:22:SSH-2.0-dropbear_2011.54:Madison,WI,United States:-89.401200,43.073100
+71.90.100.48:22:SSH-2.0-OpenSSH_5.6:Madison,WI,United States:-89.401200,43.073100
+71.90.101.113:22:SSH-2.0-OpenSSH_5.8p1 Debian-7ubuntu1:Madison,WI,United States:-89.401200,43.073100
+71.90.101.96:22:SSH-2.0-OpenSSH_5.2:Madison,WI,United States:-89.401200,43.073100
+71.90.103.195:22:SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1:Madison,WI,United States:-89.401200,43.073100
+71.90.103.82:22:SSH-2.0-OpenSSH_6.1:Madison,WI,United States:-89.401200,43.073100
+71.90.111.245:22:SSH-2.0-OpenSSH_3.9p1:Evansville,WI,United States:-89.250100,42.770100
+71.90.113.154:22:SSH-2.0-OpenSSH_3.9p1:Manitowoc,WI,United States:-87.710000,44.109900
+71.90.113.101:22:SSH-2.0-OpenSSH_3.9p1:Denmark,WI,United States:-87.776800,44.378400
+71.90.115.131:22:SSH-2.0-OpenSSH_3.9p1:Two Rivers,WI,United States:-87.614400,44.225500
+71.90.120.57:22:SSH-2.0-OpenSSH_3.9p1:Winona,MN,United States:-91.606400,43.984800
+71.90.120.41:22:SSH-2.0-OpenSSH_5.2:Winona,MN,United States:-91.606400,43.984800
+71.90.120.237:22:SSH-2.0-OpenSSH_4.3-HipServ:Tomah,WI,United States:-90.484900,43.975300
+71.90.121.53:22:SSH-2.0-OpenSSH_5.2:Tomah,WI,United States:-90.484900,43.975300
+71.90.124.68:22:SSH-2.0-OpenSSH_6.1:Wisconsin Rapids,WI,United States:-89.740300,44.336000
+71.90.127.73:21:220 Welcome to EA6500:Wisconsin Rapids,WI,United States:-89.740300,44.336000
+71.90.127.98:22:SSH-2.0-OpenSSH_3.9p1:Wisconsin Rapids,WI,United States:-89.740300,44.336000
+71.90.128.43:22:SSH-2.0-OpenSSH_4.3-HipServ:Rockford,MI,United States:-85.494300,43.118800
+71.90.134.24:22:SSH-1.99-Cisco-1.25:Holland,MI,United States:-86.126300,42.852600
+71.90.137.188:22:SSH-2.0-dropbear_0.53.1:Sturgis,MI,United States:-85.447500,41.842900
+71.90.138.79:22:SSH-2.0-OpenSSH_4.3-HipServ:Sturgis,MI,United States:-85.447500,41.842900
+71.90.145.93:22:SSH-2.0-OpenSSH_6.0p1 Debian-3ubuntu1:Fenton,MI,United States:-83.746700,42.770500
+71.90.146.146:21:220 bftpd 1.6.6 at 71.90.146.146 ready.:Linden,MI,United States:-83.817800,42.797700
+71.90.146.121:25:220 54webex.hiltech-cs.com ESMTP Postfix:Linden,MI,United States:-83.817800,42.797700
+71.90.146.139:22:SSH-2.0-OpenSSH_3.9p1:Linden,MI,United States:-83.817800,42.797700
+71.90.147.220:22:SSH-2.0-OpenSSH_3.9p1:Fenton,MI,United States:-83.746700,42.770500
+71.90.148.77:22:SSH-2.0-OpenSSH_5.5p1 Debian-6+squeeze3:Saginaw,MI,United States:-83.950800,43.419500
+71.90.148.96:22:SSH-2.0-OpenSSH_5.2:Saginaw,MI,United States:-83.950800,43.419500
+71.90.154.255:22:SSH-2.0-OpenSSH_3.9p1:Saginaw,MI,United States:-83.899100,43.415500
+71.90.155.143:22:SSH-2.0-OpenSSH_3.9p1:Saginaw,MI,United States:-83.899100,43.415500
+71.90.158.118:21:220 Welcome to FastCedar:Saginaw,MI,United States:-83.899100,43.415500
+71.90.160.148:22:SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1:Fort Worth,TX,United States:-97.387800,32.700700
+71.90.160.89:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.462500,32.723500
+71.90.160.126:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.462500,32.723500
+71.90.161.118:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.462500,32.723500
+71.90.161.99:21:230 User logged in.:Fort Worth,TX,United States:-97.462500,32.723500
+71.90.161.140:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.462500,32.723500
+71.90.162.215:22:SSH-2.0-OpenSSH_4.3-HipServ:Fort Worth,TX,United States:-97.320800,32.725400
+71.90.162.53:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.320800,32.725400
+71.90.162.86:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.320800,32.725400
+71.90.163.177:21:220 (vsFTPd 2.2.2):Fort Worth,TX,United States:-97.519500,32.779200
+71.90.163.105:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.397200,32.780700
+71.90.164.73:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.320800,32.725400
+71.90.165.66:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.544800,32.642300
+71.90.168.69:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.519500,32.779200
+71.90.170.191:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.519500,32.779200
+71.90.171.35:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.320800,32.725400
+71.90.171.210:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.462500,32.723500
+71.90.174.196:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.320800,32.725400
+71.90.175.192:22:SSH-2.0-OpenSSH_3.9p1:Fort Worth,TX,United States:-97.462500,32.723500
+71.90.200.13:22:SSH-2.0-OpenSSH_5.1p1 Debian-6ubuntu2:Roswell,GA,United States:-84.315200,34.026600
+71.90.200.248:21:220 ProFTPD 1.3.0 Server (Linkysw) [71.90.200.248]:Roswell,GA,United States:-84.315200,34.026600
+71.90.200.209:22:SSH-2.0-OpenSSH_3.9p1:Roswell,GA,United States:-84.315200,34.026600
+71.90.203.44:110:+OK POP3:Roswell,GA,United States:-84.315200,34.026600
+71.90.204.74:25:220 flyingdog.Galfas.org Microsoft ESMTP MAIL Service, Version: 6.0.3790.4675 ready at  Tue, 5 Mar 2013 21:48:59 -0500 :Roswell,GA,United States:-84.379500,34.056000
+71.90.204.74:110:+OK Microsoft Exchange Server 2003 POP3 server version 6.5.7638.1 (flyingdog.GALFAS.local) ready.:Roswell,GA,United States:-84.379500,34.056000
+71.90.204.102:22:SSH-2.0-OpenSSH_5.3:Roswell,GA,United States:-84.379500,34.056000
+71.90.204.141:22:SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1:Roswell,GA,United States:-84.379500,34.056000
+71.90.204.175:22:SSH-2.0-OpenSSH_3.9p1:Roswell,GA,United States:-84.379500,34.056000
+71.90.205.197:21:220 berwickweb Microsoft FTP Service (Version 5.0).:Roswell,GA,United States:-84.379500,34.056000
+71.90.205.83:22:SSH-2.0-OpenSSH_3.9p1:Roswell,GA,United States:-84.379500,34.056000
+71.90.205.95:22:SSH-2.0-OpenSSH_3.9p1:Roswell,GA,United States:-84.379500,34.056000
+71.90.205.242:25:220 mail.angert.net ESMTP No UBE --- For Private Use Only ---:Roswell,GA,United States:-84.379500,34.056000
+71.90.206.227:22:SSH-2.0-OpenSSH_3.9p1:Roswell,GA,United States:-84.361600,34.023200
+71.90.207.200:21:220 Northshore FTP server ready.:Roswell,GA,United States:-84.379500,34.056000
+71.90.207.127:22:SSH-2.0-OpenSSH_4.3-HipServ:Roswell,GA,United States:-84.379500,34.056000
+71.90.208.144:22:SSH-1.99-Cisco-1.25:Roswell,GA,United States:-84.315200,34.026600
+71.90.208.43:21:230 User logged in.:Roswell,GA,United States:-84.315200,34.026600
+71.90.210.168:22:SSH-2.0-OpenSSH_3.9p1:Roswell,GA,United States:-84.315200,34.026600
+71.90.211.225:22:SSH-2.0-OpenSSH_3.9p1:Roswell,GA,United States:-84.315200,34.026600
+71.90.211.133:22:SSH-1.99-OpenSSH_5.2:Roswell,GA,United States:-84.315200,34.026600
+71.90.212.231:21:220 bftpd 1.6.6 at 71.90.212.231 ready.:Roswell,GA,United States:-84.379500,34.056000
+71.90.214.9:22:SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1:Roswell,GA,United States:-84.361600,34.023200
+71.90.216.36:22:SSH-2.0-OpenSSH_4.3-HipServ:Athens,GA,United States:-83.434100,33.941000
+71.90.222.49:22:SSH-2.0-OpenSSH_4.3-HipServ:Duluth,GA,United States:-84.149400,33.979100
+71.90.224.196:22:SSH-2.0-OpenSSH_4.3-HipServ:Greenville,SC,United States:-82.394000,34.852600
+71.90.225.59:22:SSH-2.0-OpenSSH_5.6:Greenville,SC,United States:-82.394000,34.852600
+71.90.232.65:22:SSH-2.0-OpenSSH_4.3-HipServ:Asheville,NC,United States:-82.554000,35.600900
+71.90.234.169:22:SSH-2.0-OpenSSH_3.9p1:Asheville,NC,United States:-82.554000,35.600900
+71.90.235.246:22:SSH-2.0-OpenSSH_3.9p1:Asheville,NC,United States:-82.554000,35.600900
+71.90.235.14:22:SSH-2.0-OpenSSH_6.1:Asheville,NC,United States:-82.554000,35.600900
+71.90.237.226:22:SSH-2.0-OpenSSH_3.9p1:Asheville,NC,United States:-82.554000,35.600900
+71.90.238.156:22:SSH-2.0-OpenSSH_3.9p1:Asheville,NC,United States:-82.558100,35.590000
+71.90.241.180:21:220 (vsFTPd 2.3.5):Montgomery,AL,United States:-86.241500,32.392000
+71.90.241.180:22:SSH-2.0-OpenSSH_6.0p1 Debian-3ubuntu1:Montgomery,AL,United States:-86.241500,32.392000
+71.90.241.180:25:220 JPServ-SG1 ESMTP Postfix (Ubuntu):Montgomery,AL,United States:-86.241500,32.392000
+71.90.241.94:22:SSH-2.0-OpenSSH_3.9p1:Montgomery,AL,United States:-86.241500,32.392000
+71.90.242.115:22:SSH-2.0-OpenSSH_3.9p1:Montgomery,AL,United States:-86.241500,32.392000
+71.90.242.76:22:SSH-2.0-OpenSSH_3.9p1:Montgomery,AL,United States:-86.241500,32.392000
+71.90.244.223:22:SSH-2.0-OpenSSH_3.9p1:Montgomery,AL,United States:-86.300000,32.366800
+71.90.245.227:22:SSH-2.0-OpenSSH_3.9p1:Montgomery,AL,United States:-86.241500,32.392000
+71.90.247.22:22:SSH-2.0-OpenSSH_3.9p1:Montgomery,AL,United States:-86.241500,32.392000
+71.90.249.154:22:SSH-2.0-NetScreen:Montgomery,AL,United States:-86.300000,32.366800
+71.90.249.190:21:220 JSU Mikrotik FTP server (MikroTik 4.10) ready:Montgomery,AL,United States:-86.300000,32.366800
+71.90.249.177:21:220 Browser Ftp Server.:Montgomery,AL,United States:-86.300000,32.366800
+71.90.255.9:22:SSH-2.0-OpenSSH_5.9p1 Debian-5ubuntu1:Scottsboro,AL,United States:-86.034100,34.672300
+71.90.255.188:22:SSH-2.0-OpenSSH_3.9p1:Boaz,AL,United States:-86.166400,34.200700
+71.90.255.184:22:SSH-2.0-OpenSSH_3.9p1:Boaz,AL,United States:-86.166400,34.200700
