@@ -1,5 +1,9 @@
 *.py[cod]
 
+# Misc files
+*.log
+*.kml
+
 # C extensions
 *.so
 
